@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: siamese-image-diff
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=2.4.3
+Requires-Dist: pillow>=12.1.1
+Requires-Dist: torch>=2.10.0
+Requires-Dist: torchvision>=0.25.0
+Dynamic: license-file

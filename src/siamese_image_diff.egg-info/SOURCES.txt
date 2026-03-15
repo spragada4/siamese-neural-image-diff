@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/siamese_diff/__init__.py
+src/siamese_diff/dataset.py
+src/siamese_diff/model.py
+src/siamese_image_diff.egg-info/PKG-INFO
+src/siamese_image_diff.egg-info/SOURCES.txt
+src/siamese_image_diff.egg-info/dependency_links.txt
+src/siamese_image_diff.egg-info/requires.txt
+src/siamese_image_diff.egg-info/top_level.txt
